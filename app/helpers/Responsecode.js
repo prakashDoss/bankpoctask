@@ -1,0 +1,18 @@
+module.exports = {
+
+        "HTTP_OK": 200,
+        "HTTP_CREATED": 201,
+        "HTTP_ACCEPTED": 202,
+        "HTTP_MULTIPLE_CHOICES":300,
+        "HTTP_MOVED_PERMANENTLY": 301,
+        "HTTP_FOUND": 302,
+        "HTTP_PERMANENTLY_REDIRECT": 308,
+        "HTTP_BAD_REQUEST": 400,
+        "HTTP_UNAUTHORIZED": 401,
+        "HTTP_NOT_FOUND": 404,
+        "HTTP_METHOD_NOT_ALLOWED": 405,
+        "HTTP_UNPROCESSABLE_ENTITY": 422,
+        "HTTP_INTERNAL_SERVER_ERROR": 500,
+        "HTTP_BAD_GATEWAY": 502,
+    
+}
